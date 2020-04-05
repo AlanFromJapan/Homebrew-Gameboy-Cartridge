@@ -163,9 +163,9 @@
 <text x="21.8" y="45.4" size="1.778" layer="21">goo.gl/Hq5Kc</text>
 <text x="9.6" y="27.9" size="1.016" layer="21" rot="R90">32kB Variant</text>
 <text x="31.2" y="19.9" size="1.778" layer="25">PLCC EEPROM</text>
-<text x="2.4" y="22.7" size="1.016" layer="21" rot="R90">#AlanFromJapan revision</text>
-<text x="48.2" y="12.1" size="0.8128" layer="16" rot="MR90">https://github.com/AlanFromJapan/Homebrew-Gameboy-Cartridge</text>
-<text x="3.7" y="19.5" size="0.8128" layer="21" rot="R90">#v1.0 April2020</text>
+<text x="2.4" y="19.7" size="1.016" layer="21" font="vector" rot="R90">#AlanFromJapan revision</text>
+<text x="43.6" y="46.5" size="0.8128" layer="16" font="vector" rot="MR0">https://github.com/AlanFromJapan/Homebrew-Gameboy-Cartridge</text>
+<text x="3.9" y="16.9" size="0.8128" layer="21" font="vector" rot="R90">#v1.0 April2020</text>
 <wire x1="9.4" y1="7.2" x2="9.4" y2="9.4" width="0.254" layer="21"/>
 <wire x1="9.4" y1="9.4" x2="32.5" y2="9.4" width="0.254" layer="21"/>
 <wire x1="32.5" y1="9.4" x2="32.5" y2="7.2" width="0.254" layer="21"/>
@@ -185,6 +185,8 @@
 <text x="46.1" y="7.4" size="1.016" layer="21" rot="R90">Reset</text>
 <text x="47.7" y="7.4" size="1.016" layer="21" rot="R90">Audio_In</text>
 <text x="46.8" y="40.5" size="1.016" layer="21">/WE</text>
+<dimension x1="0.85" y1="0" x2="50.15" y2="0" x3="25.5" y3="-1.5" textsize="1.016" layer="21"/>
+<dimension x1="50.15" y1="48" x2="50.15" y2="0" x3="53" y3="24" textsize="1.016" layer="21"/>
 </plain>
 <libraries>
 <library name="gameboy">
