@@ -1,7 +1,13 @@
 Homebrew-Gameboy-Cartridge
 ==========================
 
-**DOESN'T WORK**, at least my (Alan) version. Don't use this, you'll waste money.
+**This is my fork of the original project**
+
+To make it work (as a 32kB cartridge): check the  manual on my website http://electrogeek.cc/gameboy%20homebrew%20cartridge.html
+
+
+
+---
 
 
 Eagle library, schematic, and board files for a Gameboy Cartridge PCB that uses a Atmel AT49F040 to replace the ROM in a Gameboy cartridge.
